@@ -1,7 +1,7 @@
 # resume
 my resume
 
-# Lovepreet-singh
+## Lovepreet-singh
 ![Profile Pic](https://github.com/Lovepreet-G/resume/blob/main/_readme/profile-pic-lovepreet.jpg)
 
 
