@@ -14,9 +14,9 @@ I am a skilled web developer with expertise in HTML, CSS, PHP, JavaScript, and C
 https://github.com/Lovepreet-G/Book-Selling-Website
 
 #### Technology
-Html
-Css
-Php
+Html__
+Css__
+Php__
 Javascript
 
 ## Education
