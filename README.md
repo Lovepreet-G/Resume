@@ -15,9 +15,13 @@ https://github.com/Lovepreet-G/Book-Selling-Website
 
 #### Technology
 Html, Css, Php, Javascript
+|Title|Link|Technology|
+|-----|----|----------|
+|Bookhub website|https://github.com/Lovepreet-G/Book-Selling-Website|Html, Css, Php, Javascript|
+
 
 ## Education
-Bachelor's degree in Computer Science
+- Bachelor's degree in Computer Science
 
 ## Work Experience
 No work experience
