@@ -12,27 +12,24 @@ I am a skilled web developer with expertise in HTML, CSS, PHP, JavaScript, and C
 
 |Title|Link|Technology|
 |-----|----|----------|
-|Bookhub website|https://github.com/Lovepreet-G/Book-Selling-Website|Html, Css, Php, Javascript|
+|Bookhub website|[Bookhub](https://github.com/Lovepreet-G/Book-Selling-Website)|Html, Css, Php, Javascript|
 
 
 ## Education
 - Bachelor's degree in Computer Science
 
 ## Work Experience
-No work experience
+- No work experience
 
 ## Contact
-### Email
-gillpreetsingh35@gmail.com
 
-### Instagram
-https://instagram.com/lovepreett.gilll?igshid=MjEwN2IyYWYwYw==
+- Email:- gillpreetsingh35@gmail.com
 
-### Youtube
-https://youtube.com/@Rivalers4
+-[Instagram](https://instagram.com/lovepreett.gilll?igshid=MjEwN2IyYWYwYw==)
 
-### Linkdin
-https://www.linkedin.com/in/lovepreet-singh-b1771718a
+-[Youtube](https://youtube.com/@Rivalers4)
+
+-[Linkdin](https://www.linkedin.com/in/lovepreet-singh-b1771718a)
 
 
 
