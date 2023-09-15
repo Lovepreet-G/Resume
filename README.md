@@ -2,7 +2,7 @@
 my resume
 
 # Lovepreet-singh
-![alt text](https://github.com/Lovepreet-G/resume/blob/main/_readme/love.jpg)
+![Profile Pic](https://github.com/Lovepreet-G/resume/blob/main/_readme/love.jpg)
 
 
 ## About
