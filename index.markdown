@@ -1,4 +1,4 @@
-[Home](/) | [Project](project.markdown) | [Contact](contact.markdown)
+[Home]() | [Project](project.markdown) | [Contact](contact.markdown)
 ## Lovepreet-singh
 
 
