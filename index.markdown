@@ -1,4 +1,4 @@
-[Home](https://github.com/Lovepreet-G/resume/blob/main/index.markdown) | [Project] | [Contact]
+[Home](index.markdown) | [Project]() | [Contact]
 ## Lovepreet-singh
 
 
