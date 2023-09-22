@@ -1,6 +1,6 @@
-
+[Home] | [Project] | [Contact]
 ## Lovepreet-singh
-![Profile Pic](_readme/profile-pic-lovepreet.jpg)
+![Profile Pic](readme/profile-pic-lovepreet.jpg)
 
 
 ## About
