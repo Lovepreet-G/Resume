@@ -1,4 +1,4 @@
-[Home] | [Project] | [Contact]
+[Home](https://github.com/Lovepreet-G/resume/index.markdown) | [Project] | [Contact]
 ## Lovepreet-singh
 ![Profile Pic](readme/profile-pic-lovepreet.jpg)
 
